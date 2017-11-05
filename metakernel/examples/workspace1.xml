@@ -1,0 +1,1 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><block type="controls_if" x="183" y="-16"></block><block type="controls_repeat_ext" x="363" y="-3"><value name="TIMES"><block type="math_number"><field name="NUM">10</field></block></value></block><block type="text_print" x="12" y="45"><value name="TEXT"><block type="variables_get"><field name="VAR">x</field></block></value></block></xml>
